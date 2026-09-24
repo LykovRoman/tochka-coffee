@@ -2,7 +2,7 @@
 
 Лендинг кофейни. Место, с которого начинается хороший день. Меню, атмосфера и адрес — без лишних шагов.
 
-[Открыть демо](https://Krutoy312.github.io/tochka-coffee/)
+[Открыть демо](https://lykovroman.github.io/tochka-coffee/)
 
 ## Задача
 
@@ -26,7 +26,7 @@
 Node.js 18 или новее. Зависимости не нужны.
 
 ```sh
-git clone https://github.com/Krutoy312/tochka-coffee.git
+git clone https://github.com/LykovRoman/tochka-coffee.git
 cd tochka-coffee
 npm start
 ```
